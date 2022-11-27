@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+}
+
+.header{
+    width: 100%;
+    height: auto;
+    /* background-color: aquamarine; */
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.imageContainer{
+    width: 70%;
+    height: 500px;
+    /* background-color: aliceblue; */
+    border-radius: 20px;
+    margin: 50px auto;
+}
+
+img{
+    width: 100%;
+    height: 500px;
+    border-radius: 20px;
+}
